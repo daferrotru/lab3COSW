@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LAB3_DFRT.iml" filepath="$PROJECT_DIR$/.idea/modules/LAB3_DFRT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LAB3_DFRT_main.iml" filepath="$PROJECT_DIR$/.idea/modules/LAB3_DFRT_main.iml" group="LAB3_DFRT" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LAB3_DFRT_test.iml" filepath="$PROJECT_DIR$/.idea/modules/LAB3_DFRT_test.iml" group="LAB3_DFRT" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-secure-api.iml" filepath="$PROJECT_DIR$/spring-boot-secure-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-secure-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-secure-api_main.iml" group="spring-boot-secure-api" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-secure-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-secure-api_test.iml" group="spring-boot-secure-api" />
     </modules>
   </component>
 </project>
